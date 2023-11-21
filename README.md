@@ -5,7 +5,7 @@ This Python script is designed to predict whether an individual is likely to hav
 ## Dataset
 
 - **Dataset Name**: Diabetes dataset
-- **Data Source**: The dataset is available from [source link].
+- **Data Source**: upload on git.
 - The dataset contains the following attributes:
   - Feature columns (8): Numerical values representing various health-related features.
   - Target column: Binary variable (0 for no diabetes, 1 for diabetes).
@@ -14,7 +14,6 @@ This Python script is designed to predict whether an individual is likely to hav
 
 - **README.md**: Documentation of the project.
 - **diabetes_prediction.py**: Python script for making diabetes predictions.
-- **requirements.txt**: List of Python packages and dependencies.
 - **model.pkl**: Pre-trained logistic regression model for diabetes prediction.
 
 ## Setup
